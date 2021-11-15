@@ -8,7 +8,7 @@ def joinHandle():
   pass
 
 print(Fore.BLUE + pyfiglet.figlet_format("Kahoot Bot"))
-print(Fore.BLUE + "Coded by AsyncCode <3 | ")
+print(Fore.BLUE + "Coded by AsyncCode <3 | https://discord.gg/99KDZYwn2c")
 username = input(Fore.BLUE + "Tell me the Bots name. > ")
 code = input(Fore.BLUE + "Tell me the Kahoot's Game Code. > ")
 int(code)
