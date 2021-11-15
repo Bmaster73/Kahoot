@@ -1,0 +1,2 @@
+# Kahoot
+Simple Kahoot Botter.
